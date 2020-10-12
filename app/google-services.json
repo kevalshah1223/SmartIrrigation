@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056172013546",
+    "firebase_url": "https://irrigate-b717f.firebaseio.com",
+    "project_id": "irrigate-b717f",
+    "storage_bucket": "irrigate-b717f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056172013546:android:2e522af9764b8fba6a2493",
+        "android_client_info": {
+          "package_name": "com.cmpica.irrigate_smartirrigationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056172013546-i2dtd50oh0u16q1f6f8lu2la5iddgkrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cmpica.irrigate_smartirrigationapp",
+            "certificate_hash": "a2f466cd94903113ee4343303346f2eac8faf8da"
+          }
+        },
+        {
+          "client_id": "1056172013546-7a55nptt9si7nj0nhetq0ab9bp2ksjqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcR_b9dTfkWo6YYXRS2z8cV1YAZMmRbig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056172013546-7a55nptt9si7nj0nhetq0ab9bp2ksjqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
